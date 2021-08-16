@@ -1,15 +1,14 @@
-# appteste
+# Example Flutter Connect in MySQL
 
-A new Flutter project.
+A Flutter project connection in MySQL.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Hi, this is a test application that shows how to connect to a MySQL database through framework Flutter and the mysql1 package.
 
-A few resources to get you started if this is your first Flutter project:
+Notice since then that the mentioned package only works for mobile devices
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Package: [mysql1].(https://pub.dev/packages/mysql1)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
